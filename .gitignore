@@ -1,0 +1,13 @@
+*.egg
+*.egg-info
+htmlcov
+dist
+build
+eggs
+parts
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
