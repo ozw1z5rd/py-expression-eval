@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="formulatoolkit", 
-    version="0.0.1",
+    version="0.0.2",
     author="Alessio Palma",
     author_email="ozw1z5rd@gmail.com",
     description="Formula toolkit ( pure python code )",
