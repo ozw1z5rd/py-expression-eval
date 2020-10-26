@@ -2,8 +2,8 @@
 import math
 import pytest
 
-from FormulaToolkit import Parser
-from FormulaToolkit import InvalidExpressionError, ParsingError, EpressionParityError, UndefinedVariableError, NotAFunctionError
+from formulatoolkit import Parser
+from formulatoolkit import InvalidExpressionError, ParsingError, EpressionParityError, UndefinedVariableError, NotAFunctionError
 
 @pytest.fixture()
 def parser():
